@@ -1,0 +1,32 @@
+baseURL = "http://hypnotherapyhealthcare.co.uk/"
+languageCode = "en-gb"
+title = "Coming Soon"
+theme = "minimal"
+googleAnalytics = ""
+
+[params]
+    author = "Dr Rebekah Gibbons"
+    description = "Hypnotherapy Healthcare"
+    accent = "#00A499"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:rebekah@hypnotherapyhealthcare.co.uk"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://twitter.com/hypnotherapyhc/"
+    name = "twitter"
+    weight = 3
