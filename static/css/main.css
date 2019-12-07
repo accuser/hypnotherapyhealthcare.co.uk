@@ -30,19 +30,19 @@ main {
 
 .intro > h1 {
     color: var(--accent);
-    font-size: 12vh;
+    font-size: 10vh;
     text-transform: uppercase;
 }
 
 .intro > h2 {
     color: var(--accent);
-    font-size: 3vmin;
+    font-size: 5vh;
     text-transform: uppercase;
 }
 
 .intro > .profile {
-    width: 10vh;
-    height: 10vh;
+    width: 50vh;
+    height: 50vh;
 }
 
 /*apply accent colour to links*/
