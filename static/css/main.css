@@ -102,3 +102,16 @@ footer {
 img {
     max-width: 100%;
 }
+
+q, blockquote {
+	quotes: "“" "”" "‘" "’";
+}
+
+q:before {
+	content: open-quote;
+}
+
+q:after {
+	content: close-quote;
+}
+
