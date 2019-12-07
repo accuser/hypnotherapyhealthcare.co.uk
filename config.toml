@@ -11,6 +11,7 @@ googleAnalytics = "UA-35915992-3"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
+    profilePic = "img/logo.png"
 
 [[menu.main]]
     url = "/"
