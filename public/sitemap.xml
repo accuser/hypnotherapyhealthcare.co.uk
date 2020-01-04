@@ -1,20 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hypnotherapyhealthcare.co.uk/categories/</loc>
-    <priority>0</priority>
+    <loc>https://hypnotherapyhealthcare.co.uk/about/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hypnotherapyhealthcare.co.uk/</loc>
-    <priority>0</priority>
+    <loc>https://hypnotherapyhealthcare.co.uk/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hypnotherapyhealthcare.co.uk/tags/</loc>
-    <priority>0</priority>
+    <loc>https://hypnotherapyhealthcare.co.uk/testimonial/20193011/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hypnotherapyhealthcare.co.uk/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hypnotherapyhealthcare.co.uk/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hypnotherapyhealthcare.co.uk/testimonial/</loc>
   </url>
   
 </urlset>

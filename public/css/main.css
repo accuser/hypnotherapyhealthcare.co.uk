@@ -13,7 +13,6 @@ main {
     margin: auto;
     padding: 25px;
     flex: 1 0 auto;
-    max-width: 750px;
 }
 
 /*footer*/
@@ -25,23 +24,28 @@ main {
 /*home page*/
 
 .intro {
-    transform: translateY(22vh);
+    transform: translateY(1vh);
 }
 
 .intro > h1 {
-    color: #212121;
-    font-size: 12vh;
+    color: var(--accent);
+    font-size: 8vmin;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .intro > h2 {
-    color: #757575;
-    font-size: 3vmin;
+    color: var(--accent);
+    font-size: 4vmin;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .intro > .profile {
-    width: 10vh;
-    height: 10vh;
-    border-radius: 50%;
+    width: 50vmin;
+    height: 50vmin;
 }
 
 /*apply accent colour to links*/
@@ -98,3 +102,16 @@ footer {
 img {
     max-width: 100%;
 }
+
+q, blockquote {
+	quotes: "“" "”" "‘" "’";
+}
+
+q:before {
+	content: open-quote;
+}
+
+q:after {
+	content: close-quote;
+}
+
